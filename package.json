@@ -64,9 +64,9 @@
   "types": "lib",
   "license": "MIT",
   "author": "LeulAria (https://github.com/LeulAria)",
-  "homepage": "https://github.com/LeulAria/react-role-based-router",
+  "homepage": "https://github.com/LeulAria/react-rolebased-router",
   "bugs": {
-    "url": "https://github.com/LeulAria/react-role-based-router/issues"
+    "url": "https://github.com/LeulAria/react-rolebased-router/issues"
   },
-  "repository": "LeulAria/react-role-based-router"
+  "repository": "LeulAria/react-rolebased-router"
 }
